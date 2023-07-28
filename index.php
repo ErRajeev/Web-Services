@@ -90,7 +90,7 @@
                         find
                         that
                         it would be better for them to purchase a new system.
-                        Citywide IT Solutions is privately owned and operated by Chaudhary Ketan Raj. Chaudhary's
+                        Citywide IT Solutions is privately owned and operated by Rajeev Ranjan. Rajeev's
                         credentials
                         are as follows: computer engineering diploma
                         Tech Empire Institute of Advanced Technology Delhi-94
@@ -279,10 +279,10 @@
 
                 <div class="carousel-cell">
                     <div>
-                        <img src="img/Chaudhary.jpg" alt="">
+                        <img src="img/Rajeev.jpg" alt="">
                     </div>
                     <div class="blog-name">
-                        <h1>Chaudhary Ketan Raj</h1>
+                        <h1>Rajeev Ranjan</h1>
                     </div>
                     <div class="blog-contant">
                         <p>Lorem ipsum dolor sit amet Lorem ipsum dolor, sit amet consecteturo dignissimos tempore quis
@@ -297,10 +297,10 @@
                 </div>
                 <div class="carousel-cell">
                     <div>
-                        <img src="img/Chaudhary.jpg" alt="">
+                        <img src="img/Rajeev.jpg" alt="">
                     </div>
                     <div class="blog-name">
-                        <h1>Aman Raj</h1>
+                        <h1>Pooja Kumari</h1>
                     </div>
                     <div class="blog-contant">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate,Lorem ipsum dolor sit
@@ -314,10 +314,10 @@
                 </div>
                 <div class="carousel-cell">
                     <div>
-                        <img src="https://source.unsplash.com/weekly?human" alt="">
+                        <img src="img/Rajeev.jpg" alt="">
                     </div>
                     <div class="blog-name">
-                        <h1>Shubham Kumar Ojha</h1>
+                        <h1>Aman Raj</h1>
                     </div>
                     <div class="blog-contant">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate,Lorem ipsum dolor sit
@@ -331,10 +331,10 @@
                 </div>
                 <div class="carousel-cell">
                     <div>
-                        <img src="https://source.unsplash.com/weekly?human" alt="">
+                        <img src="img/Rajeev.jpg" alt="">
                     </div>
                     <div class="blog-name">
-                        <h1>Rajeev Ranjan</h1>
+                        <h1>Sneh Sameer</h1>
                     </div>
                     <div class="blog-contant">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate,Lorem ipsum dolor sit
@@ -354,10 +354,10 @@
     <footer>
         <section id="contact">
             <div class="founder-pic">
-                <img src="img/Chaudhary.jpg" alt="Founder">
+                <img src="img/Rajeev.jpg" alt="Founder">
             </div>
             <div>
-                <h1 class="founder-name">Chaudhary Ketan Raj</h1>
+                <h1 class="founder-name">Rajeev Ranjan</h1>
             </div>
             <div>
                 <h2 class="contact-us">&#9743;&nbsp;Contact Us</h2>
@@ -392,24 +392,16 @@
                     </div>
                 </div>
             </form>
-
-            <div class="follow-link">
-                <a class="social-media" id="fb-handle" href="https://www.facebook.com/thee.rajeev/" target="_blabk"><i
-                        class="fa fa-facebook fa-lg">&nbsp;facebook</i></a>
-                <a class="social-media" id="insta-handle" href="https://instagram.com/thee.rajeev/" target="_blank"><i
-                        class="fa fa-instagram fa-lg">&nbsp;Instagram</i></a>
-                <a class="social-media" id="twitter-handle" href="https://twitter.com/theerajeev/" target="_blank"><i
-                        class="fa fa-twitter fa-lg">&nbsp;twitter</i></a>
-            </div>
         </section>
+
         <section id="footerbar">
             <div id="term">
                 <a target="_blank" href="#">FAQ</a>
                 <a target="_blank" href="#">Policy</a>
                 <span>&copy;&nbsp;All Rights Are Reserved</span>
                 <div id="developer">
-                    <a class="social_media" id="fb_handle" href="https://www.facebook.com/thee.rajeev/" target="_blabk">
-                        <i class="fa fa-facebook fa-lg">&nbsp;&nbsp;&nbsp;Developer Rajeev Ranjan&nbsp;&#9996;</i></a>
+                    <a class="social_media" id="fb_handle" href="https://github.com/ErRajeev/" target="_blabk">
+                        <i class="fa fa-brands fa-github">&nbsp;&nbsp;&nbsp;Rajeev Ranjan&nbsp;&#9996;</i></a>
                 </div>
             </div>
         </section>
